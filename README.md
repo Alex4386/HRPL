@@ -14,8 +14,10 @@ since the license limits the usage of this software to a "person".
 So I fixed this issue. for the software freedom of the gensokyo!  
 
 ## So what was changed?
-HRPL (Hakurei Reimu Public License) includes your permission to use the software freely in the gensokyo right in the license. AND also license terms were changed to more permissive.
-And in order to prevent tired License typing at every single code you write, you just need to write it once. (or you can do it everywhere just like you use MIT License :P)  
+HRPL (Hakurei Reimu Public License) includes your permission to use the software freely in the gensokyo in the license.  
+Also license terms were changed to more permissive in order to make yokais and half-persons free to use.  
+And in order to prevent tired License typing at every single code you write, you just need to write it once.  
+(or you can do it everywhere just like you use MIT License :P)   
 
 ## OK, Let me check the License
 You can check the entire license at [LICENSE](LICENSE)
