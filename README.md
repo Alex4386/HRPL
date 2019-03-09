@@ -1,5 +1,5 @@
 # HRPL
-Hakurei Reimu Public License,  
+[Hakurei Reimu](https://en.touhouwiki.net/wiki/Reimu_Hakurei) Public License,  
 freedom for **Everyone**.
 
 ## Problems with MIT
@@ -8,34 +8,32 @@ In the MIT License, there is a part
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files...
 ```  
-But the some characters at TouHou Project are incapable to use this software freely, 
-since the license limits the usage of this software to a "person".  
+But the some characters at [TouHou Project](https://en.wikipedia.org/wiki/Touhou_Project) are incapable to use this software freely, 
+since the license limits the usage of this software to a ["person"](https://en.wikipedia.org/wiki/Homo_sapiens).  
   
-So I fixed this issue. for the software freedom of the gensokyo!  
+So I fixed this issue. for the software freedom of the [gensokyo](https://en.touhouwiki.net/wiki/Gensokyo)!  
 
 ## So what was changed?
-HRPL (Hakurei Reimu Public License) includes your permission to use the software freely in the gensokyo in the license.  
-Also license terms were changed to more permissive in order to make yokais and half-persons free to use.  
-And in order to prevent tired License typing at every single code you write, you just need to write it once.  
-(or you can do it everywhere just like you use MIT License :P)   
+HRPL ([Hakurei Reimu](https://en.touhouwiki.net/wiki/Reimu_Hakurei) Public License) includes your permission to use the software [freely](https://www.fsf.org/) in the [gensokyo](https://en.touhouwiki.net/wiki/Gensokyo) in the license.  
+Also license terms were changed to more permissive in order to make [yokais (youkais)](https://en.touhouwiki.net/wiki/Youkai) and [half-persons(a.k.a. Half-Phantom)](https://en.touhouwiki.net/wiki/Phantom#Half-human_Half-phantom) [free to use](https://fsf.org).   
 
 ## OK, Let me check the License
 You can check the entire license at [LICENSE](LICENSE)
 ```
                       Hakurei Reimu Public License
-                   Copyright <YEAR> <COPYRIGHT_HOLDER>
+                    Copyright 2019 <COPYRIGHT_HOLDER>
 
-Permission is hereby granted, free of charge, to anyone (ex. yokai or half-person)
+Permission is hereby granted, free of charge, to anyone (including, yokai or half-person)
 obtaining a copy of this software and associated documentation files (the "Software"),
 to deal in the Software without restriction, including without limitation the
 rights to use, copy, modify, merge, publish, distribute, sublicense, sell copies
-of the Software and same applies inside of gensokyo.
+of the Software.
 
 To permit people to whom the Software is furnished to do so subject to
 the following conditions:
 
 The above copyright notice and this permission notice should be included
-in root of the repository indicating License or the part of the Software.
+and provided with the Software. 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
 INCLUDING NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
