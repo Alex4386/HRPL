@@ -15,7 +15,7 @@ So I fixed this issue. for the software freedom of the [gensokyo](https://en.tou
 
 ## So what was changed?
 HRPL ([Hakurei Reimu](https://en.touhouwiki.net/wiki/Reimu_Hakurei) Public License) includes your permission to use the software [freely](https://www.fsf.org/) in the [gensokyo](https://en.touhouwiki.net/wiki/Gensokyo) in the license.  
-Also license terms were changed to more permissive in order to make [yokais (youkais)](https://en.touhouwiki.net/wiki/Youkai) and [half-persons(a.k.a. Half-Phantom)](https://en.touhouwiki.net/wiki/Phantom#Half-human_Half-phantom) [free to use](https://fsf.org).   
+Also license terms were changed to more permissive in order to make [youkais](https://en.touhouwiki.net/wiki/Youkai) and [ Half-Phantom](https://en.touhouwiki.net/wiki/Phantom#Half-human_Half-phantom) [free to use](https://fsf.org).   
 
 ## OK, Let me check the License
 You can check the entire license at [LICENSE](LICENSE)
@@ -23,7 +23,7 @@ You can check the entire license at [LICENSE](LICENSE)
                       Hakurei Reimu Public License
                     Copyright 2019 <COPYRIGHT_HOLDER>
 
-Permission is hereby granted, free of charge, to anyone (including, yokai or half-person)
+Permission is hereby granted, free of charge, to anyone (including, youkai or half-phantom)
 obtaining a copy of this software and associated documentation files (the "Software"),
 to deal in the Software without restriction, including without limitation the
 rights to use, copy, modify, merge, publish, distribute, sublicense, sell copies
