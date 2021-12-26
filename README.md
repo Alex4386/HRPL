@@ -9,7 +9,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files...
 ```  
 But the some characters at [TouHou Project](https://en.wikipedia.org/wiki/Touhou_Project) are incapable to use this software freely, 
-since the license limits the usage of this software to a ["person"](https://en.wikipedia.org/wiki/Homo_sapiens).  
+since the license limits the usage of this software to a ["person"](https://en.wikipedia.org/wiki/Homo_sapiens). This also prevents usage for robots, dogs and even "Ceaser in *"Planet of Apes"*" can not use it! This is racist!  
   
 So I fixed this issue. for the software freedom of the [gensokyo](https://en.touhouwiki.net/wiki/Gensokyo)!  
 
