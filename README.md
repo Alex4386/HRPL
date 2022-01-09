@@ -10,7 +10,8 @@ of this software and associated documentation files...
 ```  
 But the some characters at [TouHou Project](https://en.wikipedia.org/wiki/Touhou_Project) are incapable to use this software freely, 
 since the license limits the usage of this software to a ["person"](https://en.wikipedia.org/wiki/Homo_sapiens). This also prevents usage for robots, dogs and even "Ceaser in *"Planet of Apes"*" can not use it! This is racist!  
-  
+
+This is a real issue, considering [GitHub Copilot](https://copilot.github.com), An Artificial Intelligence based Autocomplete system. Can **IT** use the code?  
 So I fixed this issue. for the software freedom of the [gensokyo](https://en.touhouwiki.net/wiki/Gensokyo)!  
 
 ## So what was changed?
