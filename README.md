@@ -8,15 +8,17 @@ In the MIT License, there is a part
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files...
 ```  
-But the some characters at [TouHou Project](https://en.wikipedia.org/wiki/Touhou_Project) are incapable to use this software freely, 
-since the license limits the usage of this software to a ["person"](https://en.wikipedia.org/wiki/Homo_sapiens). This also prevents usage for robots, dogs and even "Ceaser in *"Planet of Apes"*" can not use it! This is racist!  
-
-This is a real issue, considering [GitHub Copilot](https://copilot.github.com), An Artificial Intelligence based Autocomplete system. Can **IT** use the code?  
-So I fixed this issue. for the software freedom of the [gensokyo](https://en.touhouwiki.net/wiki/Gensokyo)!  
+But the some characters at [Touhou Project](https://en.wikipedia.org/wiki/Touhou_Project) are incapable to use this software freely, 
+since the license limits the usage of this software to a ["person"](https://en.wikipedia.org/wiki/Homo_sapiens). This also prevents usage for robots, dogs and even ["Caeser in *"Planet of Apes"*"](https://en.wikipedia.org/wiki/Caesar_(Planet_of_the_Apes)) can not use it!  
+  
+This is a real issue, considering [GitHub Copilot](https://copilot.github.com) or [Tabnine](https://www.tabnine.com), An Artificial Intelligence based autocomplete system. Can **IT** use the code?  
+  
+This is [AI racist accusatory "Issac Asimov" bs right here]() at MIT License!  
+So I fixed this issue. for the software freedom of the [gensokyo](https://en.touhouwiki.net/wiki/Gensokyo) and AI-ready world!  
 
 ## So what was changed?
 HRPL ([Hakurei Reimu](https://en.touhouwiki.net/wiki/Reimu_Hakurei) Public License) includes your permission to use the software [freely](https://www.fsf.org/) in the [gensokyo](https://en.touhouwiki.net/wiki/Gensokyo) in the license.  
-Also license terms were changed to more permissive in order to make [youkais](https://en.touhouwiki.net/wiki/Youkai) and [ Half-Phantom](https://en.touhouwiki.net/wiki/Phantom#Half-human_Half-phantom) [free to use](https://fsf.org).   
+Also license terms were changed to more permissive in order to make [youkais](https://en.touhouwiki.net/wiki/Youkai) and [ Half-Phantom](https://en.touhouwiki.net/wiki/Phantom#Half-human_Half-phantom) [free to use](https://fsf.org) (explicitly mentioned).   
 
 ## OK, Let me check the License
 You can check the entire license at [LICENSE](LICENSE)
