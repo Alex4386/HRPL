@@ -13,7 +13,7 @@ since the license limits the usage of this software to a ["person"](https://en.w
   
 This is a real issue, considering [GitHub Copilot](https://copilot.github.com) or [Tabnine](https://www.tabnine.com), An Artificial Intelligence based autocomplete system. Can **IT** use the code?  
   
-This is [AI racist accusatory "Issac Asimov" bs right here]() at MIT License!  
+This is [AI racist accusatory "Issac Asimov" bs right here](https://youtu.be/YGb0Mn6Ltns) at MIT License!  
 So I fixed this issue. for the software freedom of the [gensokyo](https://en.touhouwiki.net/wiki/Gensokyo) and AI-ready world!  
 
 ## So what was changed?
